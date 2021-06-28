@@ -4,6 +4,7 @@ I learned how to install tensorflow, matplotlib, pandas, jupyter notebook from [
 
 ##### Below are the codes to use. When prompted to enter tensorflow virtual environment, I used `/Users/fangao/tf_macos`
 ```
+cd
 brew install libjpeg
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/apple/tensorflow_macos/master/scripts/download_and_install.sh)"
 cd tf_macos
